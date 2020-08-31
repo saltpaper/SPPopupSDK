@@ -1,0 +1,22 @@
+{
+  "name": "SPPopupSDK",
+  "version": "0.1.0",
+  "summary": "A short description of SPPopupSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/saltpaper@126.com/SPPopupSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "saltpaper@126.com": "saltpaper@126.com"
+  },
+  "source": {
+    "git": "https://github.com/saltpaper@126.com/SPPopupSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SPPopupSDK/Classes/**/*"
+}

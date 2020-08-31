@@ -1,0 +1,6 @@
+framework module SPPopupSDK {
+  umbrella header "SPPopupSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
