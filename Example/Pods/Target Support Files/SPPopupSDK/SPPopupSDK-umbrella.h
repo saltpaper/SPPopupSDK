@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "SPPopup.h"
+#import "SPPopupViewController.h"
 
 FOUNDATION_EXPORT double SPPopupSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char SPPopupSDKVersionString[];
